@@ -4,15 +4,6 @@
 #include <time.h>
 #include <string>
 
-/*
-int main(void)
-{
-	BankAccount* head = new BankAccount;
-	Bank_vCreateFirstAccount(head);
-	Bank_vShowAccountInfo(head);
-	return 0;
-}*/
-
 
 int main(void)
 {
